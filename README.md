@@ -29,7 +29,8 @@ This project showcases a personal portfolio website with 3D elements rendered us
 
 Demo
 
-[![3D Portfolio Thumbnail](https://github.com/tinabi8/React_3D_Portfolio_Tingting_Bi/raw/master/3D%20Portfolio.png)](https://github.com/tinabi8/React_3D_Portfolio_Tingting_Bi/raw/master/3D%20Portfolio_Tingting_Bi.mp4)
+[![3D Portfolio Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
 
 ## Contribution
