@@ -27,6 +27,11 @@ This project showcases a personal portfolio website with 3D elements rendered us
 
 5. Open [http://localhost:3000](http://localhost:3000) in your web browser to view the portfolio website.
 
+Demo
+
+[![3D Portfolio Image](https://github.com/tinabi8/React_3D_Portfolio_Tingting_Bi/raw/master/3D%20Portfolio.png)](https://github.com/tinabi8/React_3D_Portfolio_Tingting_Bi/raw/master/3D%20Portfolio_Tingting_Bi.mp4)
+
+
 ## Contribution
 
 If you find any issues or have any improvement suggestions, feel free to open an issue or pull request.
